@@ -9,6 +9,7 @@ public class demo {
 		System.out.println("Demo practice");
 		System.out.println("Hello");
 		System.out.println("hi");
+		System.out.println("Changes made");
 	}
 
 }
